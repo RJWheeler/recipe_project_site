@@ -40,7 +40,8 @@ p.description{
     width: 100%; 
 }
 div.category{
-    margin-bottom: -18px;
+    margin-bottom: 0px;
+    overflow: visible;
 }
 div.separator{
   height: 1px;
